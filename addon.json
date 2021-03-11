@@ -1,0 +1,13 @@
+{
+    "title": "High Noon Cowboy Pistol",
+    "description": "The Cowboy Pistol from the High Noon gamemode with reduced damage. Works in sandbox, and is also available in TTT.",
+    "type": "weapon",
+    "tags": [
+        "fun"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md",
+        "LICENSE"
+    ]
+}
