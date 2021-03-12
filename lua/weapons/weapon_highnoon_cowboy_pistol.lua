@@ -46,7 +46,7 @@ SWEP.Secondary.Ammo = "none"
 SWEP.Primary.ShotSound = Sound("Weapon_357.Single")
 SWEP.Primary.EmptySound = Sound("Weapon_Pistol.Empty")
 SWEP.Primary.Recoil = 7.5
-SWEP.Primary.Damage = 60
+SWEP.Primary.Damage = 80
 SWEP.Primary.Force = 500
 
 SWEP.Primary.Delay = 0.2
