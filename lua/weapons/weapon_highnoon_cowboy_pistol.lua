@@ -28,13 +28,11 @@ if engine.ActiveGamemode() == "terrortown" then
 else
     SWEP.Base = "weapon_base"
     SWEP.Slot = 1
-    SWEP.WepSelectIcon = "vgui/ttt/icon_cowboypistol"
-    SWEP.BounceWeaponIcon = false
-
 end
 
 SWEP.Spawnable = true
 SWEP.AdminOnly = false
+SWEP.Category = "alxl"
 
 SWEP.Primary.ClipSize = 6
 SWEP.Primary.DefaultClip = 6
